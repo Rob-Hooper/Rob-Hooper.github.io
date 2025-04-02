@@ -28,7 +28,7 @@
         </section>
         <section id="pages">
           {%- for page in site.pages -%}
-            <a href="{{ page.url }}">{{ page.title | escape }}</a>&nbsp;
+            <a href="{{ page.url }}">{{ page.title | escape }}</a>&nbsp&"|"&nbsp;
           {%- endfor -%}
         </section>
       </div>
