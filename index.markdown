@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+I created this site to meet the requirements for position specific training at my place of employment.
