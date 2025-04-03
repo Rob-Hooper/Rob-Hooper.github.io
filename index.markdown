@@ -4,5 +4,6 @@
 
 layout: default
 ---
+![Rob's Desk](desktop.jpg)
 
-I created this site to meet the requirements for position specific training at my place of employment.
+What can you tell about a person by looking at their desk?
