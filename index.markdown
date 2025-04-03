@@ -4,6 +4,6 @@
 
 layout: default
 ---
-![Rob's Desk](../desktop.jpg)
+![Rob's Desk](Desktop.jpg)
 
 What can you tell about a person by looking at their desk?
