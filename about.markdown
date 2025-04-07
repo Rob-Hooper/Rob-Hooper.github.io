@@ -1,18 +1,17 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Center
+permalink: /center/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Center](Center.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* One in a Million Dad
+* Dad Rocks
+* Crucifix
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Well, somebody must like me if they think **I ROCK!**
+
+Did you know that you can find crucifixes in Anglican, Catholic, and Eastern Orthodox churches?  Crucifixes are often inscribed with INRI which stands for _Iesus Nazarenus, Rex Iudaeorum_ or Jesus of Nazareth, King of the Jews.
 
 
-[jekyll-organization]: https://github.com/jekyll
